@@ -1,0 +1,9 @@
+LaneDetect
+LaneDetection.code-workspace
+*.m
+*.mp4
+*.png
+*.jpg
+.DS_Store
+LaneDetect.dSYM/Contents/Resources/DWARF/LaneDetect
+LaneDetect.dSYM/Contents/Info.plist
